@@ -28,8 +28,8 @@ driver = webdriver.Remote(
     command_executor='http://127.0.0.1:4723/wd/hub',
     desired_capabilities={
         "platformName": "iOS",
-        "platformVersion": "13.1.3",
-        "deviceName": "<디바이스 이름>>",
+        "platformVersion": "<iOS 버전>",
+        "deviceName": "<디바이스 이름>",
         "app": "/Users/xxx/xxx_internal.ipa",
         "automationName": "XCUITest",
         "bundleId": "com.ozys.xxx.internal",
