@@ -14,7 +14,7 @@ driver = webdriver.Remote(
     command_executor='http://127.0.0.1:4723/wd/hub',
     desired_capabilities={
       "platformName": "Android",
-      "platformVersion": "7.0",
+      "platformVersion": "<안드로이드 버전>",
       "deviceName": "<디바이스 이름>",
       "app": "C:\\apk\\<apk 이름>.apk",
       "automationName": "Appium",
