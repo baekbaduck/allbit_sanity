@@ -1,3 +1,4 @@
+모바일에서 접속 시 View code > sanity.py 혹은 sanity_ios.py 선택시 코드를 보실 수 있습니다.
 # 올비트 Selenium 자동화 검증
 Selenium과 Appium을 활용한 자동화 검증 코드입니다. 참고로 아이폰은 MacOS 환경에서 연결해야 작동합니다.
 기동을 하기 위한 필수 정보는 다음과 같습니다.<br>
